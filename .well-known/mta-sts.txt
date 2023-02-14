@@ -1,0 +1,4 @@
+version: STSv1
+mode: enforce
+mx: mx2f0e.netcup.net
+max_age: 604800
